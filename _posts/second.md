@@ -4,7 +4,7 @@ title: You're The Second!
 ---
 
 Second:
-The next ... (shown below).
+The second ... (shown below).
 
 
 The hardest way to make your Second post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
